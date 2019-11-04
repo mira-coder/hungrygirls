@@ -1,1 +1,39 @@
-css
+
+  body {
+    color: rgb(128,128,128);
+    font-family: Bradley Hand ITC;
+    background-color: silver;
+    margin: 0 auto;
+      max-width: 600px;
+  }
+  div {
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+
+  }
+  p{
+    color: black;
+    padding: 50px;
+    line-height: 50px;
+    text-align: center;
+    margin:0;
+    font-size: 130%;
+    font-weight: bold;
+  }
+
+  .first {
+  background-image: url("first.jpg");
+  }
+  .second {
+    background-image: url("second.jpg");
+  }
+  .third {
+    background-image: url("third.jpg");
+  }
+
+
+
+
+  }
