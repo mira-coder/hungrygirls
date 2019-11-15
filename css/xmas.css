@@ -1,0 +1,21 @@
+body{ 
+    background-color: darkgreen; 
+}
+
+
+
+H1 { text-align: center; 
+    outline-style: double;
+    color:red;
+    border:blue;
+}
+
+P{ text-align: center; 
+    color: white;
+}
+
+H2 { text-align: center; 
+    color:rgb(3, 48, 184);
+    text-decoration: underline;
+}
+
