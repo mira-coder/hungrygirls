@@ -3,11 +3,20 @@ body{
     font-family: Bradley Hand ITC;
 }
 
-H1 {
+H1 { text-align: center; 
+  text-decoration: underline;
     color:rgb(209, 133, 144);
 }
 
-P{
+H2 { text-align: center; 
+  color:black
+
+  
+}
+
+
+
+P{ text-align: center; 
     color: black;
 
 
