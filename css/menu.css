@@ -1,24 +1,23 @@
 body{
     background-color:lavenderblush;
-    font-family: Bradley Hand ITC;
+
 }
 
 H1 { text-align: center; 
-  text-decoration: underline;
+  outline-style: double;
     color:rgb(209, 133, 144);
 }
 
 H2 { text-align: center; 
   color:black
-
-  
 }
-
 
 
 P{ text-align: center; 
     color: black;
-
+    p.small {
+      line-height: 0.8;
+    }
 
     box-sizing: border-box;
     }
@@ -32,10 +31,8 @@ P{ text-align: center;
     padding: 5px;
     }
 
-    body {
-      color: rgb(128,128,128);
-      font-family: Bradley Hand ITC;
-    }
+    
+    
 
 
 
