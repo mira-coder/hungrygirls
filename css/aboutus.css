@@ -6,3 +6,9 @@ h1{
 color:rgb(209, 133, 144);color:rgb(209, 133, 144);
 text-decoration: underline;
 }
+
+styledimg {
+    background-image: url(/css/AboutUs_HungryGirls);
+    background-repeat: no-repeat;
+    width: 820px;
+    height: 312px;}
