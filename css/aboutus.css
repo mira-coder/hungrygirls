@@ -73,9 +73,3 @@ text-decoration: underline;
       float: none;
     }
   }
-
-  styledimg {
-    background-image: url(/css/AboutUs_HungryGirls);
-    background-repeat: no-repeat;
-    width: 820px;
-    height: 312px;}
