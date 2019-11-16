@@ -12,6 +12,9 @@ H1 { text-align: center;
 
 P{ text-align: center; 
     color: white;
+    p.small {
+        line-height: 0.8;
+      }
 }
 
 H2 { text-align: center; 
