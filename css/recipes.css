@@ -10,6 +10,8 @@ flex: 33.33%;
 padding: 5px;
 }
 
+
+
 body {
   color: rgb(128,128,128);
   font-family: Bradley Hand ITC;
@@ -26,7 +28,7 @@ body {
 
 .header {
   overflow: hidden;
-  background-color: #f1f1f1;
+  background-color: lavenderblush;
   padding: 20px 10px;
 }
 
@@ -47,13 +49,13 @@ body {
 }
 
 .header a:hover {
-  background-color: #ddd;
+  background-color: lavenderblush;
   color: black;
 }
 
 .header a.active {
-  background-color: dodgerblue;
-  color: white;
+  background-color: #ddd;
+  color: black;
 }
 
 .header-right {
