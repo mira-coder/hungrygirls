@@ -1,17 +1,17 @@
 body{ 
-    background-color: darkgreen; 
+    background-color: lavenderblush; 
 }
 
 
 
 H1 { text-align: center; 
-    outline-style: double;
+    
     color:red;
     
 }
 
 P{ text-align: center; 
-    color: white;
+    color: black;
     p.small {
         line-height: 0.8;
       }
