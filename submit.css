@@ -1,27 +1,3 @@
-body{ 
-    background-color: lavenderblush; 
-}
-
-
-
-H1 { text-align: center; 
-    
-    color:red;
-    
-}
-
-P{ text-align: center; 
-    color: black;
-    p.small {
-        line-height: 0.8;
-      }
-}
-
-H2 { text-align: center; 
-    color:rgb(0, 37, 150);
-    text-decoration: underline;
-}
-
 .header {
     overflow: hidden;
     background-color: lavenderblush;
@@ -77,6 +53,8 @@ H2 { text-align: center;
     }
   }
 
-  
+  body{ 
+    background-color: lavenderblush; 
+}
 
 
